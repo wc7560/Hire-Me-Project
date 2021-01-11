@@ -1,0 +1,72 @@
+body {
+    background-image: linear-gradient(to bottom right, #4ea662, #c4c4c4, #4ea662);
+}
+
+.font1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 55px;
+}
+
+.bio {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.para {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: #2b2b2b;
+}
+
+li {
+    font-size: 22px;
+}
+
+.p1 {
+    width: 320px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.large:hover {
+    width: 640px;
+    height: auto;
+}
+
+.p2 {
+    Width: 600px;
+    height: auto;
+    border-radius: 16px;
+}
+
+.p3 {
+    width: 300px;
+    height: auto;
+}
+
+.p4 {
+    width: 750px;
+    height: auto;
+}
+
+li {
+    color: #ad0c07;
+}
+
+.para1 {
+    color: #ad0c07;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+.p5 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+
+p:hover {
+    background-color: #fffbab;
+}
